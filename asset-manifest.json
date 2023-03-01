@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b82ffba.css",
+    "main.js": "/static/js/main.190ce765.js",
+    "static/js/787.e577274b.chunk.js": "/static/js/787.e577274b.chunk.js",
+    "static/media/profile1.png": "/static/media/profile1.bf32990663427342907b.png",
+    "static/media/mohamedlogo.png": "/static/media/mohamedlogo.c6cd851f91b33c1a2ee4.png",
+    "static/media/home.png": "/static/media/home.f7a9e457115e05685a7c.png",
+    "static/media/brand2.jpeg": "/static/media/brand2.c2ac64a944f5d5b90d12.jpeg",
+    "static/media/profile.jpg": "/static/media/profile.440d2f6277bdbeca07c8.jpg",
+    "index.html": "/index.html",
+    "main.9b82ffba.css.map": "/static/css/main.9b82ffba.css.map",
+    "main.190ce765.js.map": "/static/js/main.190ce765.js.map",
+    "787.e577274b.chunk.js.map": "/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b82ffba.css",
+    "static/js/main.190ce765.js"
+  ]
+}
